@@ -5,6 +5,7 @@ This project explores and analyzes IMDB movie data stored in a SQLite database. 
 The Jupyter Notebook (imdb_movie_analysis.ipynb) connects to an SQLite database (movie.sqlite) and performs:
 
 Data Loading & Exploration :
+
 -Extracts tables: movies, directors.
 -Creates pandas DataFrames for easy manipulation.
 -Explores dataset structure with .info() and schema inspection.
